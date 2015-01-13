@@ -1,0 +1,33 @@
+body {
+    background-image: url("http://i.imgur.com/o43D5cS.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+	}
+		
+body {
+    background-color: #ffa394;
+	}
+
+font-face
+	{
+  font-family: 'Open Sans';
+  src: url('OpenSans-Regular-webfont.woff');
+  src: local('☺'),
+	url('OpenSans-Regular-webfont.woff') format('woff'), url('OpenSans-Regular-webfont.ttf') format('truetype');
+	}
+
+div
+{
+font-family: 'Open Sans';
+}
+
+	
+h1	{
+	text-align: center;
+	}
+	
+p 
+	{
+	margin-left: 100px;	
+	}
