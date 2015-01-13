@@ -8,6 +8,20 @@ body {
 body {
     background-color: #ffa394;
 	}
+
+font-face
+	{
+  font-family: 'Open Sans';
+  src: url('OpenSans-Regular-webfont.woff');
+  src: local('☺'),
+	url('OpenSans-Regular-webfont.woff') format('woff'), url('OpenSans-Regular-webfont.ttf') format('truetype');
+	}
+
+div
+{
+font-family: 'Open Sans';
+}
+
 	
 h1	{
 	text-align: center;
@@ -16,5 +30,4 @@ h1	{
 p 
 	{
 	margin-left: 100px;	
-	font-family: "Calibri";
 	}
